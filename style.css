@@ -54,6 +54,7 @@ body
     height: 8px;
     border-radius: 50%;
     background-color: white;
+    z-index: 2;
 }
 
 .hand
